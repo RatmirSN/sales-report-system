@@ -1,0 +1,9 @@
+{
+  "period": "current_month",
+  "report_title": "Отчет по выполнению плана подключения новых абонентов",
+  "excel_filename": "sales_report_{timestamp}.xlsx",
+  "status_thresholds": {
+    "completed": 100,
+    "in_progress": 50
+  }
+}
